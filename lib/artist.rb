@@ -4,6 +4,10 @@ class Artist
   @@songs = []
   
   def add_song
-end 
+  end 
+  
+  def song_count 
+    @@songs.length 
+  end 
   
 end 
