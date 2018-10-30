@@ -4,7 +4,7 @@ class Song
   
   attr_accessor :title, :artist
 
-  def add_post_by_title 
+  def add_song_by_name 
   end 
   
   def artist_name
