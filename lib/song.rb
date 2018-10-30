@@ -11,4 +11,7 @@ class Song
     artist 
   end 
   
+  def song_count 
+    @@songs.
+  
 end 
