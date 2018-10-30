@@ -7,4 +7,8 @@ class Post
   def add_post_by_title 
   end 
   
+  def author_name 
+    author 
+  end 
+  
 end 
