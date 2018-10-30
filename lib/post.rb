@@ -11,4 +11,7 @@ class Post
     author 
   end 
   
+  def post_count 
+  end 
+  
 end 
